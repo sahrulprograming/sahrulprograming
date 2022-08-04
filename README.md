@@ -39,7 +39,7 @@
 ![Capacitor](https://img.shields.io/badge/-Capacitor-000?&logo=Capacitor)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
 
 ### Full Stack Projects
 
