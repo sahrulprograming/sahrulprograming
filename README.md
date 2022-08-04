@@ -44,8 +44,8 @@
 ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🌐%20Jasanya.tech-000)](https://jasanya-beta.online)
-[![](https://img.shields.io/badge/-🌐%20Rptrarawabuaya.com-000)](https://rptrarawabuaya.com/)
-[![](https://img.shields.io/badge/-🌐%20Beban-Shm.com-000)](https://beban-shm-beta.online/)
+[![](https://img.shields.io/badge/-🌐%20Rptrarawabuaya.com-000)](https://rptrarawabuaya.com)
+[![](https://img.shields.io/badge/-🌐%20BebanShm.com-000)](https://beban-shm-beta.online)
 
 ### My Statistic Github History
 
