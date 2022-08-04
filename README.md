@@ -57,6 +57,7 @@
 ### Other
 ![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![Kaggle](https://img.shields.io/badge/-Kaggle-000?&logo=Kaggle)
 
 ### My Statistic Github History
 
