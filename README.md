@@ -24,6 +24,8 @@
 
 ### Experience Technologies
 
+![Github](https://img.shields.io/badge/-Github-000?&logo=github)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![API](https://img.shields.io/badge/-API-000?&logo=Application-Programming-Interface)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
