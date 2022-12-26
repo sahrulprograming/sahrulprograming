@@ -1,4 +1,7 @@
-👋 HI I'M SYAHRUL SAEFULAH !
+<h1 align="center">👋 HI I'M SYAHRUL SAEFULAH !</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahrulprograming&color=blue&style=flat">
+</p>
 ==
 
 ### My Code Editor
