@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahrulprograming&color=blue&style=flat">
 </p>
-==
 
 ### My Code Editor
 ![Vs Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode&logoColor=0468d7)
